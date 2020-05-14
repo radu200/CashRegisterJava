@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CashRegisterP816
+comment1.params=capacity
+comment1.target=CashRegisterP816(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CashRegisterP816\n\ \n\ @param\ capacity\ the\ maximal\ number\ of\ items\ the\ cash\ register\ can\ store\n
+comment2.params=
+comment2.target=CashRegisterP816()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ CashRegisterP816\ \n\ (with\ the\ default\ capacity)\n
+comment3.params=
+comment3.target=int\ getCount()
+comment3.text=\n\ Gets\ the\ number\ of\ items\ in\ the\ current\ sale\n\ \n\ @return\ the\ item\ count\n
+comment4.params=
+comment4.target=double\ getTotal()
+comment4.text=\n\ Gets\ the\ price\ of\ all\ items\ in\ the\ current\ sale\n\ \n\ @return\ the\ total\ price\n
+comment5.params=
+comment5.target=void\ clear()
+comment5.text=\n\ Clears\ the\ cash\ register\ before\ the\ next\ sale\ \n
+comment6.params=price
+comment6.target=void\ addItem(double)
+comment6.text=\n\ Adds\ an\ item\ to\ the\ cash\ register\n\ \n\ @param\ price\ the\ price\ of\ the\ item\n
+comment7.params=
+comment7.target=void\ cancelLast()
+comment7.text=\n\ Cancels\ the\ last\ item\ in\ the\ cash\ register\n
+comment8.params=
+comment8.target=void\ displayAll()
+comment8.text=\n\ Prints\ out\ all\ the\ items\ in\ the\ current\ sale\n
+numComments=9
